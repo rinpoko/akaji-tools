@@ -1,0 +1,1 @@
+pptxgenjs (MIT), pdfkit (MIT), pdf.js (Apache-2.0), Noto Sans JP (SIL Open Font License 1.1)
